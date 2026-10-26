@@ -1,0 +1,7 @@
+name: aidd
+channels: [conda-forge]
+dependencies:
+  - python=3.11.13
+  - pip=25.2
+  - pip:
+      - -e .[dev]

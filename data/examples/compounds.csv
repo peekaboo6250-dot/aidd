@@ -1,0 +1,9 @@
+compound_id,smiles
+ethanol,CCO
+aspirin,CC(=O)Oc1ccccc1C(=O)O
+caffeine,Cn1c(=O)c2c(ncn2C)n(C)c1=O
+salt,CCN.Cl
+duplicate,OCC
+bad,NOT_A_SMILES
+empty,
+benzene,c1ccccc1

@@ -1,0 +1,4 @@
+target,disease,ligand_data,structure,evidence_status,source
+DEMO_A,4,3,5,synthetic_fixture,no_biological_evidence
+DEMO_B,3,5,3,synthetic_fixture,no_biological_evidence
+DEMO_C,2,2,4,synthetic_fixture,no_biological_evidence

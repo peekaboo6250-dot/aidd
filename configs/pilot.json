@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "max_compounds": 1000,
+  "device": "cpu",
+  "batch_size": 1,
+  "num_workers": 0,
+  "backend": "mock",
+  "gpu_memory_budget_gb": 4
+}
